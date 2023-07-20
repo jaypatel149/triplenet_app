@@ -1,0 +1,20 @@
+
+
+
+
+.learn {
+  border: none;
+  outline: none;
+  background-color: #e1f4f5;
+}
+.learn:hover {
+    border: none;
+    outline: none;
+    background-color: #e1f4f5;
+  }
+
+.hero_box{
+    display: flex;
+    justify-content: end;
+}
+
